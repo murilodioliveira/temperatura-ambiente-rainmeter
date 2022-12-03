@@ -1,2 +1,4 @@
-# temperatura-ambiente-rainmeter
-Um sensor DHT11 irá pegar informações de temperatura e umidade e apresentá-las em forma de texto em uma skin customizada através do rainmeter 
+# Integração Temperatura e Umidade
+## Arduino<->Rainmeter
+
+Utilizando um sensor DHT11 para adiquirir informações de temperatura e umidade do ambiente e apresentá-las em forma de texto em uma skin customizada através do rainmeter.
